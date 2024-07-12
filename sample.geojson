@@ -1,0 +1,329 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "ANG MO KIO",
+        "townCode": 0,
+        "population": 163950
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8484, 1.3691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "BEDOK",
+        "townCode": 1,
+        "population": 289750
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9302, 1.3236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "BISHAN",
+        "townCode": 2,
+        "population": 62430
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.848, 1.351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "BUKIT BATOK",
+        "townCode": 3,
+        "population": 139280
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.752, 1.348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "BUKIT MERAH",
+        "townCode": 4,
+        "population": 151980
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8198, 1.2829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "BUKIT PANJANG",
+        "townCode": 5,
+        "population": 146870
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.772, 1.377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "BUKIT TIMAH",
+        "townCode": 6,
+        "population": 77230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.778, 1.354]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "CENTRAL AREA",
+        "townCode": 7,
+        "population": 11030
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8574, 1.284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "CHOA CHU KANG",
+        "townCode": 8,
+        "population": 187510
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.744, 1.392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "CLEMENTI",
+        "townCode": 9,
+        "population": 92670
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.764, 1.315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "GEYLANG",
+        "townCode": 10,
+        "population": 119930
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.883, 1.318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "HOUGANG",
+        "townCode": 11,
+        "population": 223010
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.886, 1.371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "JURONG EAST",
+        "townCode": 12,
+        "population": 88010
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.741, 1.333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "JURONG WEST",
+        "townCode": 13,
+        "population": 271310
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.704, 1.342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "KALLANG/WHAMPOA",
+        "townCode": 14,
+        "population": 99610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.865, 1.316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "LIM CHU KANG",
+        "townCode": 15,
+        "population": 110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.704, 1.434]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "MARINE PARADE",
+        "townCode": 16,
+        "population": 46890
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.912, 1.302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "PASIR RIS",
+        "townCode": 17,
+        "population": 148020
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.948, 1.373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "PUNGGOL",
+        "townCode": 18,
+        "population": 196530
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.909, 1.398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "QUEENSTOWN",
+        "townCode": 19,
+        "population": 96340
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.806, 1.294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "SEMBAWANG",
+        "townCode": 20,
+        "population": 98430
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.820, 1.449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "SENGKANG",
+        "townCode": 21,
+        "population": 244600
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.892, 1.391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "SERANGOON",
+        "townCode": 22,
+        "population": 119430
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.875, 1.354]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "TAMPINES",
+        "townCode": 23,
+        "population": 285240
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.942, 1.354]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "TOA PAYOH",
+        "townCode": 24,
+        "population": 120650
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847, 1.333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "WOODLANDS",
+        "townCode": 25,
+        "population": 252530
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.786, 1.435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "townName": "YISHUN",
+        "townCode": 26,
+        "population": 220320
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.835, 1.429]
+      }
+    }
+  ]
+}
